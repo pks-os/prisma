@@ -37,7 +37,7 @@
     "@size-limit/file": "9.0.0",
     "@slack/webhook": "7.0.1",
     "@types/benchmark": "2.1.5",
-    "@types/fs-extra": "9.0.13",
+    "@types/fs-extra": "11.0.4",
     "@types/graphviz": "0.0.38",
     "@types/jest": "29.5.8",
     "@types/node": "20.9.0",
